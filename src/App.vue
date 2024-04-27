@@ -12,7 +12,6 @@
     <Divider/>
     <BankAccountArea/>
     <Divider/>
-    <DisqusComments/>
 
   </div>
 </template>
@@ -25,7 +24,6 @@ import TopArea from "./components/TopArea.vue";
 import InvitationArea from "./components/InvitationArea.vue";
 import Divider from "./components/Divider.vue";
 
-import DisqusComments from "./components/DisqusComments.vue"
 import BankAccountArea from "@/components/BackAccountArea.vue";
 import MyGallery2 from "@/components/MyGallery2.vue";
 import GoogleMapArea from "@/components/GoogleMapArea.vue";
@@ -40,7 +38,6 @@ export default {
     TopArea,
     InvitationArea,
     Divider,
-    DisqusComments,
     GoogleMapArea,
   },
   data() {

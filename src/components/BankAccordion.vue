@@ -18,7 +18,7 @@
                   <span>{{ this.bankAccount.male  }}</span>
                 </span>
                 <br />
-                <span>신랑 - 박성수</span>
+                <span>신랑 - XXX</span>
               </td>
               <td class="ten wide right aligned">
                 <div class="ui buttons">
@@ -39,7 +39,7 @@
                   <span>{{ this.bankAccount.maleMother }}</span>
                 </span>
                 <br />
-                <span>신랑 혼주 - 신미애</span>
+                <span>신랑 혼주 - XX</span>
               </td>
               <td class="right aligned">
                 <div class="ui buttons">
@@ -70,7 +70,7 @@
                   <span>{{ this.bankAccount.male  }}</span>
                 </span>
               <br />
-              <span>신부 - 김규빈</span>
+              <span>신부 - YYY</span>
             </td>
             <td class="ten wide right aligned">
               <div class="ui buttons">
@@ -91,7 +91,7 @@
                   <span>{{ this.bankAccount.femaleMother }}</span>
                 </span>
               <br />
-              <span>신부 혼주 - 송인숙</span>
+              <span>신부 혼주 - YY</span>
             </td>
             <td class="right aligned">
               <div class="ui buttons">
@@ -147,15 +147,15 @@ export default {
       showMaleContent: false,
       showFemaleContent: false,
       bankAccount: {
-        male : "99270132461",
-        maleMother: "59220201669901",
-        female: "53902218301017",
-        femaleMother: "21105152369181",
-        femaleFather: "21105152369181",
+        male : "123456789",
+        maleMother: "123456789",
+        female: "123456789",
+        femaleMother: "123456789",
+        femaleFather: "123456789",
       },
       kakaoPay: {
         male : "https://qr.kakaopay.com/FUI1VLcBZ",
-        female: "https://qr.kakaopay.com/Ej803zULX",
+        female: "https://qr.kakaopay.com/FUI1VLcBZ",
       },
       showCopyCompleteModal: false,
     };

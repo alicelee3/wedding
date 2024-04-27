@@ -52,7 +52,7 @@ export default {
   name: "google-map-area",
   data() {
     return {
-      locationName: "노블발렌티 대치점",
+      locationName: "XXXXX YYYY",
       tmapUrl: "",
       kakaoTaxiUrl: "",
       navermapUrl: "",

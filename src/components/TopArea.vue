@@ -11,19 +11,19 @@
     <div>
       <div class="photo-wrap simple">
         <div class="intro-blend-wrap photo gradient-none"><!---->
-          <img src="/my-wedding/main.png" class="intro-blend-image img-blur"> <!---->
+          <img src="/wedding/main.png" class="intro-blend-image img-blur"> <!---->
         </div>
       </div>
     </div>
     <div class="bottom">
       <div class="name">
-        <div class="groom">성수</div>
+        <div class="groom">XX</div>
         <div class="divider-and">♥</div>
-        <div class="bride">규빈</div></div>
+        <div class="bride">YY</div></div>
       <div class="datetime">
-        <div data-v-095e227a="">2024년 6월 8일 토요일 오후 5시
+        <div data-v-095e227a="">2024년 8월 31일 토요일 오후 X시
           <br>
-          노블발렌티 대치점
+          XXXXXX XX점
         </div>
       </div>
     </div>

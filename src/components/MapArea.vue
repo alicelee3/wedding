@@ -43,7 +43,7 @@ export default {
   name: "map-area",
   data() {
     return {
-      locationName: "노블발렌티 대치점",
+      locationName: "XXXXX YYY",
       tmapUrl: "",
       kakaoTaxiUrl: "",
       navermapUrl: "",
