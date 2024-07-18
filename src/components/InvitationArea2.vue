@@ -1,15 +1,15 @@
 <template>
   <div class="invitation_area">
     <p class="header _big_text _green">
-      <strong>"우리 손 잡을까요?"</strong><br />
+      <strong>"우리 결혼합니다."</strong><br />
     </p>
     <div class="desc _large_text _gray">
-      각자의 삶을 열심히 살아온 저희가,<br />
-      이제는 손을 잡고 함께 나란히 걸어가려 합니다.<br />
-      사랑한다는 말이 어울리는 사람과 함께<br />
-      오래도록 있는 힘을 다해 행복해지겠습니다.<br />
-      조용하지만 기쁨이 가득한 결혼 소식을<br />
-      이렇게 알려드립니다.
+      데이트를 마치고 집에 돌아갈 때면<br />
+      손을 놓기가 아쉬웠습니다.<br />
+      아침에 눈을 떠 하루를 마칠 때까지<br />
+      종일토록 서로 곁에 있고픈 저희였습니다.<br />
+      그런 소망을 이루어<br />
+      평생의 가약을 맺습니다.
     </div>
 
     <Divider3 :padding-bottom="0" padding-right="24" padding-left="24"/>
@@ -36,14 +36,14 @@ export default {
   data() {
     return {
       male: {
-        parents: "XXX∙YYY",
-        sub: "차남",
-        name: "XY"
+        parents: "천관순∙김경",
+        sub: "장남",
+        name: "천호성"
       },
       female: {
-        parents: "XXX∙YYY",
+        parents: "이동국∙조영민",
         sub: "장녀",
-        name: "XY"
+        name: "이미령"
       },
     };
   },
