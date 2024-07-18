@@ -46,10 +46,10 @@ export default {
     return {
       month: "08",
       day: "31",
-      male: "XXX",
-      female: "YYY",
-      date: "2024년 8월 31일 토요일 오후 N시",
-      location: "어딘가 웨딩홀 ZZ홀(N층)"
+      male: "천호성",
+      female: "이미령",
+      date: "2024년 8월 31일 토요일 오후 12시",
+      location: "프레스센터플라자 20층"
     }
 
   },
