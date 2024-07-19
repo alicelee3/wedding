@@ -14,10 +14,10 @@
           <tbody>
             <tr>
               <td class="six wide left aligned">
-                <p>신랑 - <strong>{{ this.bankAccount.male.name  }}</strong></p>
+                <p>신랑 - <strong>{{ this.천호성  }}</strong></p>
                 <span class="_bank_info">
-                  {{ this.bankAccount.male.bankName  }}<br>
-                  {{ this.bankAccount.male.account  }}
+                  {{ this.국민은행  }}<br>
+                  {{ this.87030204081314  }}
                 </span>
                 <div class="_bank_btn_area">
                   <div class="ui buttons">
@@ -34,7 +34,7 @@
             </tr>
             <tr>
               <td class="left aligned">
-                <p>신랑 혼주 - <strong>{{ this.bankAccount.maleParent.name  }}</strong></p>
+                <p>신랑 혼주 - <strong>{{ this.천관순  }}</strong></p>
                 <span class="_bank_info">
                   {{ this.bankAccount.maleParent.bankName }}<br>
                   {{ this.bankAccount.maleParent.account }}
@@ -65,10 +65,10 @@
           <tbody>
           <tr>
             <td class="six wide left aligned">
-              <p>신부 - <strong>{{ this.bankAccount.female.name  }}</strong></p>
+              <p>신부 - <strong>{{ this.이미령  }}</strong></p>
               <span class="_bank_info">
-                {{ this.bankAccount.female.bankName  }}<br>
-                {{ this.bankAccount.female.account  }}
+                {{ this.신한은행  }}<br>
+                {{ this.110-463-671680  }}
               </span>
               <div class="_bank_btn_area">
                 <div class="ui buttons">
@@ -85,7 +85,7 @@
           </tr>
           <tr>
             <td class="left aligned">
-              <p>신부 혼주 - <strong>{{ this.bankAccount.femaleParent.name }}</strong></p>
+              <p>신부 혼주 - <strong>{{ this.이동국 }}</strong></p>
                 <span class="_bank_info">
                   {{ this.bankAccount.femaleParent.bankName }}<br>
                   {{ this.bankAccount.femaleParent.account }}
