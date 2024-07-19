@@ -9,8 +9,8 @@
 
     <div class="address_area _large_text _gray">
       {{  address }}<br>
-      S TOWER B1층 노블발렌티 대치점<br>
-      <p>T. 02-539-0400</p>
+      프레스센터플라자 20층<br>
+      <p>T. 0507-1321-7653</p>
     </div>
 
     <a style="cursor: pointer" @click="copyAddress">
