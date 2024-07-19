@@ -68,7 +68,7 @@
               <p>신부 - <strong>{{ this.이미령  }}</strong></p>
               <span class="_bank_info">
                 {{ this.신한은행  }}<br>
-                {{ this.110-463-671680  }}
+                {{ this.110463671680  }}
               </span>
               <div class="_bank_btn_area">
                 <div class="ui buttons">
