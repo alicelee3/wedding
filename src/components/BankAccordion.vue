@@ -153,7 +153,7 @@ export default {
         maleParent: {
           name: "천관순",
           bankName: "국민은행",
-          account: "123456789"
+          account: "58410201066875"
         },
         female: {
           name: "이미령",
@@ -167,8 +167,8 @@ export default {
         }
       },
       kakaoPay: {
-        male : "https://qr.kakaopay.com/FUI1VLcBZ",
-        female: "https://qr.kakaopay.com/Ej803zULX",
+        male : "https://qr.kakaopay.com/FTRoL5fpD",
+        female: "https://qr.kakaopay.com/FPJRobf3e",
       },
       showCopyCompleteModal: false,
     };
