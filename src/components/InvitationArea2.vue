@@ -19,7 +19,7 @@
       <p>{{ female.parents }}<span class="male">의 {{ female.sub }}</span><strong>{{ female.name }}</strong></p>
     </div>
 
-    <img class="invi_main_image" src="../assets/images/new/invitation/invi_img.png" />
+    <img class="invi_main_image" src="../assets/images/new/invitation/invi_img.jpg" />
 
   </div>
 </template>
