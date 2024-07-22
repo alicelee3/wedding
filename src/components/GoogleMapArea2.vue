@@ -90,13 +90,13 @@ export default {
   data() {
     return {
       locationName: "프레스센터플라자",
-      address : "서울시 중구 세종대로 124",
+      address: "서울시 중구 세종대로 124",
       showCopyCompleteModal: false,
       tmapUrl: "",
       kakaoTaxiUrl: "",
       navermapUrl: "",
       kakaomapUrl: "",
-      googleMapSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.193781032656!2d127.0654114!3d37.503347500000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca5935c76961b%3A0x689edb95b05a8fbb!2z64W467iU67Cc66CM7YuwIOuMgOy5mOygkA!5e0!3m2!1sko!2skr!4v1707751789248!5m2!1sko!2skr",
+      googleMapSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1581.2385176014309!2d126.97657153860007!3d37.56738321902911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca2ed73c2c1a5%3A0x8c2811ce2a42e30!2z7ZWc6rWt7ZSE66CI7Iqk7IS87YSw!5e0!3m2!1sko!2skr!4v1721648194082!5m2!1sko!2skr",
     }
   },
   mounted() {
