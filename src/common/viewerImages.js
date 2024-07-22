@@ -12,15 +12,6 @@ export default {
 		"wedding/gallery/9.jpg",
 		"wedding/gallery/10.jpg",
 		"wedding/gallery/11.jpg",
-		"wedding/gallery/12.jpg",
-		"wedding/gallery/13.jpg",
-		"wedding/gallery/14.jpg",
-		"wedding/gallery/15_h.jpg",
-		"wedding/gallery/16_h.jpg",
-		"wedding/gallery/17_h.jpg",
-		"wedding/gallery/18.jpg",
-		"wedding/gallery/19.jpg",
-		"wedding/gallery/20.jpg",
 	]
 
 }
