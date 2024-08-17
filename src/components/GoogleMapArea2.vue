@@ -53,26 +53,23 @@
       <p class="_large_text _green"><b>주차</b></p>
       <Divider3 :padding-bottom="0" padding-right="44"/>
       <p class="_small_text _black">프레스센터플라자 주차장<br>
-      (중구 세종대로 124)<br></p>
+      (중구 세종대로 124)<br>
+      3시간 무료 주차 가능 </p>
     </div>
 
     <div class="map_desc_area _tiny_text _gray">
-      <p class="_large_text _green"><b>지하철</b></p>
+      <p class="_large_text _green"><b>대중교통</b></p>
       <Divider3 :padding-bottom="0" padding-right="44"/>
-      <p class="_small_text _black">1,2호선 시청역 4번 출구<br>
-      5호선 광화문역 5번 출구</p>
+      <p class="_small_text _black">지하철 1,2호선 시청역 4번 출구<br>
+      지하철 5호선 광화문역 5번 출구<br>
+      버스 서울 파이낸스 빌딩 하차 </p>
     </div>
 
     <div class="map_desc_area _tiny_text _gray">
-      <p class="_large_text _green"><b>KTX</b></p>
+      <p class="_large_text _green"><b>부산-서울 버스</b></p>
       <Divider3 :padding-bottom="0" padding-right="44"/>
-      <strong class="_small_text _black">서울역</strong><br>
-      </div>
-
-    <div class="map_desc_area _tiny_text _gray">
-      <p class="_large_text _green"><b>버스</b></p>
-      <Divider3 :padding-bottom="0" padding-right="44"/>
-      <strong class="_small_text _black">서울 파이낸스 빌딩 하차</strong><br>
+      <p class="_small_text _black">5시 30분 부산교대 한양플라자 앞<br>
+      (경남76바 1016)</p><br>
 
     </div>
   </div>
